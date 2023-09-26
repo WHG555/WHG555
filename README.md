@@ -15,3 +15,5 @@ email whghcyx@outlook.com
 
 # Program Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WHG555&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WHG555&theme=github-compact)](https://github.com/WHG555) 
