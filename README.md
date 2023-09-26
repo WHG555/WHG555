@@ -4,7 +4,7 @@
 
 # code
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=obsidian-docker)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=obsidian-docker&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Program Language
