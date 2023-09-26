@@ -2,8 +2,8 @@
 email whghcyx@outlook.com
 
 <p align="center"> 
-  <a href="https://whg555.github.io/"></a>
-  <a href="https://whghcyx.gitee.io/web-url/"></a>
+  <a href="https://whg555.github.io/">个人网站</a>
+  <a href="https://whghcyx.gitee.io/web-url/">一笑导航</a>
 </p>
 
 [![OSmile's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHG555&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
