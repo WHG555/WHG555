@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 😎
+email whghcyx@outlook.com
 
 <p align="center">
     <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -13,8 +14,9 @@
 
 # code
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=obsidian-docker&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=lunar-calendar&show_owner)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=obsidian-docker&show_owner=true)](https://github.com/WHG555/obsidian-docker) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=lunar-calendar&show_owner)](https://github.com/WHG555/lunar-calendar)
 
 
 # Program Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WHG555&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
