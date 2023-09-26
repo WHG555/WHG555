@@ -15,14 +15,3 @@ email whghcyx@outlook.com
 
 # Program Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WHG555&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<a href="https://github.com/WHG555/linux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=linux&show_owner=true" />
-</a>
-<a href="https://github.com/WHG555/obsidian-docker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=obsidian-docker&show_owner=true" />
-</a>
