@@ -17,6 +17,6 @@ email whghcyx@outlook.com
 <a href="https://github.com/WHG555/obsidian-docker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=obsidian-docker" />
 </a>
-<a href="https://github.com/WHG555/lunar-calendar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=lunar-calendar" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
