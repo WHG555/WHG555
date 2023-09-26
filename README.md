@@ -5,3 +5,7 @@
 # code
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=obsidian-docker)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# Program Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WHG555&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
