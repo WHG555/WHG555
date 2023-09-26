@@ -8,13 +8,15 @@
 # 代码
 <p align="center"> obsidian </p>
 <a href="https://github.com/WHG555/obsidian-docker"  height="150px">
-  <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=obsidian-docker&show_owner=true" />
+  <img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=obsidian-docker" />
 </a>
 <a href="https://github.com/WHG555/lunar-calendar" height="150px">
-  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=lunar-calendar&show_owner=true" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=lunar-calendar" />
 </a>
 
-
+<a href="https://github.com/WHG555/program-demo" height="150px">
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=program-demo" />
+</a>
 # 编程语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WHG555&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
