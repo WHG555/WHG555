@@ -4,7 +4,7 @@ email whghcyx@outlook.com
 [![OSmile's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHG555&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 # code
-<center>obsidian</center>
+<p> <center>obsidian</center> </p>
 <a href="https://github.com/WHG555/obsidian-docker">
   <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=WHG555&repo=obsidian-docker&show_owner=true" />
 </a>
